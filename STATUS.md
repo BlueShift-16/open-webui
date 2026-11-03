@@ -1,5 +1,5 @@
 # STATUS — open-webui
-*Updated: 2026-04-23*
+*Updated: 2026-11-03*
 
 ## What this is
 Open WebUI is a persistent ChatGPT-style web interface running as a Docker container on

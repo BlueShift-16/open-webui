@@ -1,5 +1,5 @@
 # Open WebUI
-*Updated: 2026-04-23*
+*Updated: 2026-11-03*
 
 Persistent ChatGPT-style web interface running on `docker-core` (LXC 1110, 10.0.100.18).
 Connects to local LLM backends — normally Ollama on PC1, or the T2-03 distributed

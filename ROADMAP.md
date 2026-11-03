@@ -1,5 +1,5 @@
 # ROADMAP — open-webui
-*Updated: 2026-04-23*
+*Updated: 2026-11-03*
 
 ## Milestones
 
